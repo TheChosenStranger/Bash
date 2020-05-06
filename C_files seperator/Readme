@@ -1,3 +1,6 @@
 This script just creates 3 folders with .c, .h, .txt files
 And a folder containing all .c, all .h and all .txt
 and increments the number written within the file upon each run.  
+input file contains the names of all the files and folders
+
+*To run use FullScript.bat not FileCreator.bat*
