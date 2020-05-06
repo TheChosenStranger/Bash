@@ -1,0 +1,1 @@
+Bash scripting mini projects
